@@ -1,0 +1,3 @@
+-use bootstrap and templates for good ux/ui
+-instead of github links to projects host some using github
+-once complete, host this portfolio and add the link to resume
